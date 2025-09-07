@@ -1,5 +1,6 @@
 # Hero_Vired_LMS
 SQL Assignment
+
 Use lms;
 
 -- 1. List All Courses with Their Category Names
